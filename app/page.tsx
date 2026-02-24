@@ -31,7 +31,6 @@ export default function Home() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-center py-24 px-6 bg-white dark:bg-black sm:items-start">
-        <Image src="/next.svg" alt="logo" width={120} height={28} />
 
         <h1 className="mt-8 text-3xl font-bold">Wasla Updater</h1>
 
